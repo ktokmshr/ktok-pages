@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: ktok page
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - About: about.md
+  - テスト: test.md
+theme: readthedocs
